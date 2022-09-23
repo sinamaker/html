@@ -10,3 +10,15 @@
 #red{
     color: brown;
 }
+nav a {
+    color:black;
+}
+nav a:hover{
+    color: blue;
+}
+nav a:active{
+    color: rgb(21, 196, 30);
+}
+nav a:visited{
+    color: lightcoral;
+}
