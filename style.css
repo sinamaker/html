@@ -1,6 +1,12 @@
-h2{ 
-    color: purple;
+.test-1{
+    color: blue;
 }
-footer{
+.red-footer{
     color: red;
+}
+.test-nav1 {
+    color: darkolivegreen;
+}
+#red{
+    color: brown;
 }
