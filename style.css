@@ -1,24 +1,12 @@
-.test-1{
-    color: blue;
-}
-.red-footer{
+red-footer{
     color: red;
 }
-.test-nav1 {
-    color: darkolivegreen;
-}
-#red{
-    color: brown;
-}
-nav a {
-    color:black;
-}
 nav a:hover{
-    color: blue;
+    color: darkblue;
 }
 nav a:active{
-    color: rgb(21, 196, 30);
+    color: crimson;
 }
 nav a:visited{
-    color: lightcoral;
+    color: darkolivegreen;
 }
