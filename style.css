@@ -10,3 +10,16 @@ nav a:active{
 nav a:visited{
     color: darkolivegreen;
 }
+
+body{
+    color:rgba(red, green, blue, alpha)
+}
+h1{
+font-style:italic;
+}
+h1{
+    text-transform: uppercase;
+}
+h1{
+color:rgb(23, 80, 102);
+}
