@@ -1,25 +1,61 @@
+/*GLOBAL*/
+
 red-footer{
-    color: red;
+    color: #f10c0c;
 }
 nav a:hover{
-    color: darkblue;
-}
-nav a:active{
-    color: crimson;
-}
-nav a:visited{
-    color: darkolivegreen;
+    color: rgb(166, 9, 228);
 }
 
 body{
-    color:rgba(red, green, blue, alpha)
+    color:#444;
 }
 h1{
-font-style:italic;
-}
-h1{
+    font-style:italic;
     text-transform: uppercase;
+    color: #070707;
+}
+h2{
+    color: #4062bb;
+} 
+h3{
+    color: #4062bb;
+}
+aside a{
+    color: #4062bb;
+}
+p a{
+    color: #4062bb; 
+}
+a{
+ color:rgb(47, 83, 58);
 }
 h1{
-color:rgb(23, 80, 102);
+    font-size:1rem;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+}
+nav{
+    font-size: 18px;
+}
+p{
+    font-size: 22px;
+}
+li{
+    font-size: 20px;
+}
+footer{
+    font-size: 16px;
+}
+/*CONTAINER*/
+.container{
+    width: 800px;
+    margin: auto ;
 }
