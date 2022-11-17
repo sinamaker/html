@@ -4,7 +4,7 @@ red-footer{
     color: #f10c0c;
 }
 nav a:hover{
-    color: rgb(166, 9, 228);
+    color: rgb(112, 34, 177);
 }
 
 body{
@@ -28,7 +28,7 @@ p a{
     color: #4062bb; 
 }
 a{
- color:rgb(47, 83, 58);
+ color:#46557a;
 }
 h1{
     font-size:30px;
@@ -71,9 +71,27 @@ nav a{
     margin-top: 10px;
     display: inline-block;
 }
-p{
-    border-top: rgb(23, 19, 233);
-}
+
 nav a{
     text-decoration:none;
+    font-weight: bold;
+}
+ul a{
+    text-decoration:none;
+}
+p a{
+    text-decoration:none;
+}
+h4{
+ padding-left: 230px;
+    margin:auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.margin{
+    margin-bottom:100px;
+} 
+ul a:hover{
+    color: rgb(112, 34, 177);
+    font-weight: bold;
 }
