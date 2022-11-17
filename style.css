@@ -11,9 +11,9 @@ body{
     color:#444;
 }
 h1{
-    font-style:italic;
-    text-transform: uppercase;
-    color: #070707;
+    font-style: normal;
+    text-transform: capitalize;
+    color: #4062bb;
 }
 h2{
     color: #4062bb;
@@ -31,7 +31,7 @@ a{
  color:rgb(47, 83, 58);
 }
 h1{
-    font-size:1rem;
+    font-size:30px;
 }
 h2{
     font-size: 40px;
@@ -58,4 +58,22 @@ footer{
 .container{
     width: 800px;
     margin: auto ;
+}
+.post-img{
+    width:80%;
+}
+.page-header{
+     background-color: #f9fafd;
+     padding:auto;
+}
+nav a{
+    margin-right:30px;
+    margin-top: 10px;
+    display: inline-block;
+}
+p{
+    border-top: rgb(23, 19, 233);
+}
+nav a{
+    text-decoration:none;
 }
